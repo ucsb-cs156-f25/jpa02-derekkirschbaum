@@ -31,7 +31,7 @@ public class DeveloperTest {
     public void getGithubId_returns_correct_githubId() {
         // TODO: Replace Chris G. with your name as shown on
         // <https://bit.ly/cs156-f25-teams>
-        assertEquals("derekkirschbaum", Developer.getGithubId());
+        assertEquals("DerekKirschbaum", Developer.getGithubId());
     }
 
     @Test
